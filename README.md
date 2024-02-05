@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h2>Hey! 👋</h2>
 
 I'm Chirag Ghosh! 
-- I am a frontend developer and photographer from India.
+- I am a software developer and photographer from India.
 - I am a final year undergrad at IIT Kharagpur.
 - I prefer writing my own CSS rather than use some library.
 - I love reading blogs, listening to music and talk about filmmaking.
