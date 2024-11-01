@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I'm Chirag Ghosh! 
 - I am a software developer and photographer from India.
-- I am a final year undergrad at IIT Kharagpur.
+- I graduated from IIT Kharagpur in 2024.
 - I prefer writing my own CSS rather than use some library.
 - I love reading blogs, listening to music and talk about filmmaking.
 - Check out my personal website to know more and connect: [www.chiragghosh.dev](https://www.chiragghosh.dev)
